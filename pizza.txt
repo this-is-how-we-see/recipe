@@ -1,6 +1,6 @@
 Best Damn Pizza
 
-Ingredients
+*Ingredients
 
 Yeast
 Flour 
@@ -14,9 +14,12 @@ Olives
 Squid
 Meatballs
 
-Directions
+*Directions
 
 1-Place ingredients into cannon.
 2-Light fuse.
 3-Grab net.
 4-Run underneith.  
+
+*Marketing
+Sell to drunk 19y/os
